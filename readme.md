@@ -1,3 +1,13 @@
+This is a follow-up to my previous request #67451
+
+ "Fwd: two affiliate sales"
+
+I really appreciate your response.
+But your response without my affilaite payment or invoice, will not work for me.
+
+Because i am not getting any positive response or answers from your affiliate sales team. Its not fair for me. I earned some money from your affiliate in the November December Christmas or deals days. But i am not getting my affiliate money in my PayPal account. from last 4 months my payment is pending. and your marketing manager Bob pr@stylemixthemes.com not giving me a proper follow up. later on he was busy from Word Camp 2024. After waiting i received nothing.
+
+
 # Nuxy
 [![Latest Version](https://img.shields.io/badge/release-v1.0.0-blue?style=flat-square)](https://github.com/StylemixThemes/nuxy/releases)
 [![GNU Licensed](https://img.shields.io/badge/license-GNU%20v3.0-brightgreen)](https://github.com/StylemixThemes/nuxy/blob/master/LICENSE)
